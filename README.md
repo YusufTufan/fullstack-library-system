@@ -2,8 +2,6 @@
 
 Bu proje, modern web teknolojileri kullanılarak geliştirilmiş kapsamlı bir Kütüphane Yönetim Sistemidir. Kullanıcıların kitap ödünç almasını, iade etmesini ve kütüphane envanterinin yönetilmesini sağlar.
 
-![Project Preview](https://via.placeholder.com/800x400?text=Proje+Ekran+Goruntusu+Buraya)
-*(Buraya projenin güzel bir ekran görüntüsünü koyabilirsin)*
 
 ## 🚀 Teknolojiler
 
