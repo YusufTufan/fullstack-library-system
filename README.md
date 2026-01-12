@@ -10,7 +10,7 @@ Bu proje Full Stack mimari ile geliştirilmiştir:
 ### Backend (Sunucu Tarafı)
 * **Framework:** NestJS (Node.js)
 * **Dil:** TypeScript
-* **Veritabanı:** PostgreSQL / MySQL (Kullandığını buraya yaz)
+* **Veritabanı:** Sqlite
 * **ORM:** TypeORM / Prisma
 * **Authentication:** JWT (JSON Web Tokens)
 
