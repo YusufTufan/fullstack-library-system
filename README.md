@@ -37,7 +37,7 @@ Bilgisayarınızda Node.js ve Git'in yüklü olduğundan emin olun.
 
 1. **Repoyu Klonlayın:**
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/library-management-system.git](https://github.com/KULLANICI_ADIN/library-management-system.git)
+   git clone [https://github.com/YusufTufan/library-management-system.git](https://github.com/YusufTufan/library-management-system.git)
    cd library-management-system
    ```
 2. Backend Kurulumu
