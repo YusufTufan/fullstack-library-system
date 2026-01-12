@@ -56,5 +56,5 @@ Yeni bir terminal açın ve:
    ```
 
 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details. Copyright (c) 2025 YusufTufan
+This project is licensed under the MIT License - see the LICENSE file for details. Copyright (c) 2026 YusufTufan
 
