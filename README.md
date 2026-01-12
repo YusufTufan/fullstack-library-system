@@ -39,3 +39,21 @@ Bilgisayarınızda Node.js ve Git'in yüklü olduğundan emin olun.
    ```bash
    git clone [https://github.com/KULLANICI_ADIN/library-management-system.git](https://github.com/KULLANICI_ADIN/library-management-system.git)
    cd library-management-system
+   ```
+2. Backend Kurulumu
+   ```bash
+   cd library_backend
+   npm install
+   # .env dosyasını oluşturup veritabanı ayarlarınızı yapmayı unutmayın!
+   npm run start:dev
+    ```
+3. Frontend Kurulumu
+Yeni bir terminal açın ve:
+   ```bash
+   cd library-frontend
+   npm install
+   npm run dev
+   ```
+🤝 Katkıda Bulunma
+Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce bir issue açınız.
+
