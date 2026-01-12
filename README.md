@@ -54,6 +54,7 @@ Yeni bir terminal açın ve:
    npm install
    npm run dev
    ```
-🤝 Katkıda Bulunma
-Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce bir issue açınız.
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details. Copyright (c) 2025 YusufTufan
 
